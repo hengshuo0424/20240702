@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\桌面\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\USER\OneDrive\桌面\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\USER\OneDrive\桌面\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\App.g.cs
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.g.resources
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\USER\OneDrive\桌面\HelloWorld\obj\Debug\HelloWorld.pdb
